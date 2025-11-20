@@ -46,8 +46,6 @@ Testing Plan
 We played the game to test it. After deployment we had each of us log in onto our own respectice computers
 and tested if we were able to join lobbies and play the game with one another.
 
-Challenges
----
 
 
 
